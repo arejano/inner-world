@@ -1,0 +1,7 @@
+{
+    "workspace.library": [
+        "C:/Users/gustavo.arejano/.local/share/lua-language-server/love2d/library"
+    ],
+    "diagnostics.globals": ["love"],
+    "runtime.version": "LuaJIT"
+}
